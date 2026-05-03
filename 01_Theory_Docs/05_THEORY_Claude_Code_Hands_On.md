@@ -1,1 +1,0 @@
-{"type":"error","error":{"type":"not_found_error","message":"File not found in container: /mnt/user-data/outputs/05_THEORY_Claude_Code_Hands_On.md","details":{"error_visibility":"user_facing"}},"request_id":"req_011CaKesGUxUT2GmZaird9W3"}

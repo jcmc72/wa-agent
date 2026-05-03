@@ -1,1 +1,0 @@
-{"type":"error","error":{"type":"not_found_error","message":"File not found in container: /mnt/user-data/outputs/06_THEORY_Best_Practices_Advanced_Patterns.md","details":{"error_visibility":"user_facing"}},"request_id":"req_011CaKesPzQ27g2RBwba8WxL"}
