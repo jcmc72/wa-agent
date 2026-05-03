@@ -1,0 +1,1 @@
+{"type":"error","error":{"type":"not_found_error","message":"File not found in container: /mnt/user-data/outputs/00_MASTER_INDEX_Curriculum.md","details":{"error_visibility":"user_facing"}},"request_id":"req_011CaKepvZ6HyJFZoVV3p89C"}
